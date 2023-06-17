@@ -5,8 +5,6 @@ In this work,we will help the management team track their KPIs, things like sale
 But all you've been given is a folder of raw CSV files, which contain information about transaction and return records, products, customers, and sales territories. So your objective here is to use Power BI desktop to connect and transform that raw data, build a relational data model, create calculated columns and measures with DAX, and finally, design an interactive dashboard to help visualize and analyze that data.
 
 ## AdventureWorks Report Summary
-We have the following Pages in our Report.
-
 ### Executive summary view:
 This view presents present high level KPI's such as revenue, profit, orders, and return rate followed by weekly trending chart having drill down functionalities.
 ![Image](./images/exec_summary.png)
@@ -23,6 +21,6 @@ Customer-level view presents a drilldown aspect into performance at the individu
 This view is provided to check geospatial tools and to drill down into each continents and see the corresponding orders and business behavior. 
 ![Image](./images/geo_summary.png)
 
-### Decision Tree view:
+### Decision tree view:
 In this view, the management team also an option to check the Return rate metric from category to product level and corresponding orders.
 ![Image](./images/return_tree.png)
