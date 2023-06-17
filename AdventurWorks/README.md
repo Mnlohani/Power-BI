@@ -1,4 +1,4 @@
-## Introduction and Goal 
+## Introduction and Objective 
 A fictitious global manufacturing company, AdventureWorks produces cycling equipment and accessories.
 In this work,we will help the management team track their KPIs, things like sales, revenue, profit and returns, compare performance across regions, analyze product-level trends, and identify high-value customers.
 
