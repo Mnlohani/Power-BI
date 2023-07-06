@@ -7,7 +7,11 @@ But all we have a folder of raw CSV files, which contain information about trans
 ## AdventureWorks Report Summary
 ### Executive summary view
 This view presents present high level KPI's such as revenue, profit, orders, and return rate followed by weekly trending chart having drill down functionalities.
-![Image](./images/exec_summary.png)
+![Image](./images/exec_summary.png)  
+--
+ ![Image](./images/tooltip.png)   
+--
+ ![Image](./images/Slicer_panel.png)
 
 ### Product level view
 The drill down functionality so that customer can drill into any specific product's detail view. This view shows us how the product is performing against its monthly order, revenue, or profit target. It also contains parameters to check how does it change to the price adjustment impacts a metric like total profit etc.
